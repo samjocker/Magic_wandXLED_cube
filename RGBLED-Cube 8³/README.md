@@ -1,5 +1,5 @@
 # CubeDrive V0.1 -pwm.test
-## **digital模擬LED的pwm測試代碼**
+## **此版本為digital模擬LED的pwm測試代碼**
 ### 版本紀錄:
 利用二進位減少LED每禎的寫入次數
 ### 預計效果:

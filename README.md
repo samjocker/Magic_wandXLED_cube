@@ -1,4 +1,4 @@
-# A wond control with LED tube.
+# A magic wond control.
 ## **Version 1.3**
 ### 目前版本功能:
 1. arduino讀取mpu6050數據並卡爾曼濾波取得yaw、pitch、roll三值

@@ -1,6 +1,6 @@
 # CubeDrive V0.1 -pwm.test
 ### **此版本為digital模擬LED的pwm測試代碼**
-[![](https://img.shields.io/badge/CubeDrive V0.1 pwm.test-Debug-blue)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.ino)
+[![](https://img.shields.io/badge/CubeDrive0.1.pt.ino-Version-blue)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.ino)
 [![](https://img.shields.io/badge/CubeDrive0.1.pt.ino-Debug-red)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.ino)
 
 ### 版本紀錄:

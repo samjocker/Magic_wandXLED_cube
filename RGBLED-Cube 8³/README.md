@@ -4,3 +4,4 @@
 利用二進位減少LED每禎的寫入次數
 ### 預計效果:
 由原255次刷新改進為8次刷新，減少每禎消耗時間以提升整體刷新率。
+[![](https://img.shields.io/badge/Magisk-v25.2-blue)](https://github.com/topjohnwu/Magisk/releases/tag/v25.2)

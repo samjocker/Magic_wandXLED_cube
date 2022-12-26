@@ -114,6 +114,7 @@ void loop() {
           Serial.print(((angle[2]+3.14)+(3.14-ypr[2]))*-1*180/M_PI);
         else    Serial.print((ypr[2]-angle[2])*180/M_PI);
         Serial.print("\t");
+        Serial.print("p");
         time1 = millis();
         Serial.println();
       }  
@@ -131,31 +132,11 @@ void loop() {
         Serial.print("0.00");
         Serial.print("\t");
         Serial.print("0.00");
+        Serial.print("\t");
+        Serial.print("s");
         Serial.println();
         time3 = time4;
       }
     }
-//    if (timed >= 50 && !button_state){
-//      Serial.print("ypr\t");
-//      Serial.print(ypr[0] * 180 / M_PI);
-//      Serial.print("\t");
-//      Serial.print(ypr[1] * 180 / M_PI);
-//      Serial.print("\t");
-//      Serial.print(ypr[2] * 180 / M_PI);
-//      Serial.print("\t");
-//      time1 = millis();
-//      Serial.println();
-//    }
-//    else if (timed >= 50 && button_state){
-//      Serial.print("ypr\t");
-//      Serial.print(0);
-//      Serial.print("\t");
-//      Serial.print(0);
-//      Serial.print("\t");
-//      Serial.print(0);
-//      Serial.print("\t");
-//      time1 = millis();
-//      Serial.println();
-//    }
   }
 }

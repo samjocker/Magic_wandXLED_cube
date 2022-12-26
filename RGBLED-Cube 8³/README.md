@@ -3,5 +3,5 @@
 ### 版本紀錄:
 利用二進位減少LED每禎的寫入次數
 ### 預計效果:
-由原255次刷新改進為8次刷新，減少每禎消耗時間以提升整體刷新率。
+由原255次刷新改進為8次刷新，減少每禎消耗時間以提升整體刷新率。  
 [![](https://img.shields.io/badge/CubeDrive0.1.pt.ino-Debug-red)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.ino)

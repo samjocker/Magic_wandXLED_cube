@@ -10,7 +10,7 @@
 # A RGB pwm LED tube.
 ### **測試中的digital模擬LEDpwm代碼**
 ### 2022/12/26
-[![](https://img.shields.io/badge/RGBLED Cube3-note-green)](https://github.com/samjocker/Magic_wondXLED_tube/tree/main/RGBLED-Cube%208%C2%B3)
+[![](https://img.shields.io/badge/RGBLEDCube3-note-green)](https://github.com/samjocker/Magic_wondXLED_tube/tree/main/RGBLED-Cube%208%C2%B3)
 [![](https://img.shields.io/badge/CubeDrive0.1.pt.01.ino-Debug-red)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.1.ino)
 
 ### 版本紀錄:

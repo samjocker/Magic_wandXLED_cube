@@ -8,9 +8,9 @@
 ### 新增:
 1. 數據圖像顯示
 # A RGB pwm LED tube.
-# CubeDrive V0.1.pt.1
-### **此版本為digital模擬LED的pwm測試代碼**
+### **測試中的digital模擬LEDpwm代碼**
 ### 2022/12/26
+[![](https://img.shields.io/badge/CubeDrive0.1.pt.01.ino-Debug-green)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.1.ino)
 [![](https://img.shields.io/badge/CubeDrive0.1.pt.01.ino-Debug-red)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.1.ino)
 
 ### 版本紀錄:

@@ -7,10 +7,12 @@
 1. V1.0時python讀取序列阜數據卡在暫存區延遲過高問題(優化至10hz讀取率)
 ### 新增:
 1. 數據圖像顯示
+### 目前成果展示(V1.30):
+[![](https://img.onl/L12P2h)](https://photos.app.goo.gl/uSvbn7ETcRqxsse37)
 # A RGB pwm LED cube.
 ### **測試中的digital模擬LEDpwm代碼**
 ### updat : 2022/12/26
-[![](https://img.onl/by31bZ)](https://github.com/samjocker/Magic_wondXLED_tube/tree/main/RGBLED-Cube%208%C2%B3)
+[![](https://img.shields.io/badge/RGBLEDCube3-note-green)](https://github.com/samjocker/Magic_wondXLED_tube/tree/main/RGBLED-Cube%208%C2%B3)
 [![](https://img.shields.io/badge/CubeDrive0.1.pt.01.ino-Debug-red)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.1.ino)
 
 ### 版本紀錄:

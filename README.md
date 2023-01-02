@@ -1,5 +1,5 @@
 # A magic wand control.
-## **Version 1.32**
+## **Version 1.32(2023/1/2 10:27)**
 ### 目前版本功能:
 1. arduino讀取mpu6050數據並卡爾曼濾波取得yaw、pitch、roll三值
 2. 可利用python讀取arduino數據並將位移數據圖像顯示出來

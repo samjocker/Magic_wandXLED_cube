@@ -19,12 +19,9 @@
 [![](https://img.onl/L12P2h)](https://photos.app.goo.gl/5FmcTnXPaZoideAj7)
 # A RGB pwm LED cube.
 ### **測試中的digital模擬LEDpwm代碼**
-### updat : 2022/12/26
+### updat : 2023/1/2
 [![](https://img.shields.io/badge/RGBLEDCube3-note-green)](https://github.com/samjocker/Magic_wondXLED_tube/tree/main/RGBLED-Cube%208%C2%B3)
 [![](https://img.shields.io/badge/CubeDrive0.1.pt.01.ino-Debug-red)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.1.ino)
 
 ### 版本紀錄:
-    利用二進位減少LED每禎的寫入次數
-    >>函式led_pwm()
-### 預計效果:
-    由原255次刷新改進為8次刷新，減少每禎消耗時間以提升整體刷新率。
+    增加cube的接地分區以減少PWM腳位需求，可直接使用mega2560自帶pwm角為控制。

@@ -25,7 +25,7 @@
 
 ### 目前功能:
     通過二維陣列設定led的顏色，並使用函式刷新。(測試中，目前僅能低刷新率)
-[![NetFlix on UWP](https://res.cloudinary.com/marcomontalbano/image/upload/v1587315555/video_to_markdown/images/youtube--2qqYywttue4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/2qqYywttue4](https://youtu.be/4X25hSIJ_OM "NetFlix on UWP")
+[![](https://img.onl/L12P2h)](https://youtu.be/4X25hSIJ_OM)
 ### 待實現:
     1.通過序列埠通訊控制cube的顏色
     2.圖像化編輯器 方便測試、動畫製作

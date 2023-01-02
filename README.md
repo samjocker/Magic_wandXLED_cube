@@ -25,7 +25,7 @@
 
 ### 目前功能:
     通過二維陣列設定led的顏色，並使用函式刷新。(測試中，目前僅能低刷新率)
-[![](https://i.ytimg.com/vi/4X25hSIJ_OM/maxresdefault.jpg)](https://youtu.be/4X25hSIJ_OM "")
+
 ### 待實現:
     1.通過序列埠通訊控制cube的顏色
     2.圖像化編輯器 方便測試、動畫製作

@@ -14,34 +14,9 @@ int color_set  = {{0,0,0,0,0,0,0,0,0,0,0,0},
 void setup() {
   // put your setup code here, to run once:
   pinMode(2,OUTPUT);
-  pinMode(3,OUTPUT);
-  pinMode(4,OUTPUT);
-  pinMode(5,OUTPUT);
-  pinMode(6,OUTPUT);
-  pinMode(7,OUTPUT);
-  pinMode(8,OUTPUT);
-  pinMode(9,OUTPUT);
-  pinMode(10,OUTPUT);
-  pinMode(11,OUTPUT);
-  pinMode(12,OUTPUT);
-  pinMode(13,OUTPUT);
-
-  pinMode(22,OUTPUT);
-  pinMode(23,OUTPUT);
-  pinMode(24,OUTPUT);
-  pinMode(25,OUTPUT);
-  pinMode(26,OUTPUT);
-  pinMode(27,OUTPUT);
-  pinMode(28,OUTPUT);
-  pinMode(29,OUTPUT);
-  pinMode(30,OUTPUT);
-  pinMode(31,OUTPUT);
-  pinMode(32,OUTPUT);
-  pinMode(33,OUTPUT);
-  pinMode(34,OUTPUT);
-  pinMode(35,OUTPUT);
-  pinMode(36,OUTPUT);
-  pinMode(37,OUTPUT);
+  for(int i=2;i<38){
+    pinMode(i,OUTPUT);
+  }
 }
 
 

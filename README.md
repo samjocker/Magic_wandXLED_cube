@@ -21,7 +21,7 @@
 ### **測試中的digital模擬LEDpwm代碼**
 ### updat : 2023/1/2
 [![](https://img.shields.io/badge/RGBLEDCube3-note-green)](https://github.com/samjocker/Magic_wondXLED_tube/tree/main/RGBLED-Cube%208%C2%B3)
-[![](https://img.shields.io/badge/CubeDrive0.1.pt.01.ino-Debug-red)](https://github.com/samjocker/Magic_wondXLED_tube/blob/main/RGBLED-Cube%208%C2%B3/CubeDrive0.1.pt.1.ino)
+[![](https://img.shields.io/badge/CubeDrive0.1.pt.01.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive0.2.st.ino)
 
 ### 版本紀錄:
     增加cube的接地分區以減少PWM腳位需求，可直接使用mega2560自帶pwm角為控制。

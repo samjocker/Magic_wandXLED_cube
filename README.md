@@ -22,7 +22,7 @@
 ### update : 2023/1/5
 
 [![](https://img.shields.io/badge/CubeDrive.ino-1.5.1.one-green)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive1.5.1.d.ino)
-[![](https://img.shields.io/badge/CubeDrive0.2.st.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive0.2.st.ino)
+[![](https://img.shields.io/badge/CubeDrive.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive0.2.st.ino)
 
 
 ### 目前功能:
@@ -31,6 +31,15 @@
     因LED刷新順序問題，順位靠後的LED工作時常過低，導致亮度不平均。
 
 https://user-images.githubusercontent.com/34911327/210252287-098fcaef-6f39-4aea-9a2e-6753492e4f1d.mp4
+
+
+### 待實現:
+    1.通過序列埠通訊控制cube的顏色
+    2.圖像化編輯器 方便測試、動畫製作
+    3.新增對8x8的支持
+    4.與magic wand建立連結
+### 版本紀錄:
+    增加控制單顆led顏色的函示。
 
 
 ### 待實現:

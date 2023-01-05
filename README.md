@@ -17,12 +17,13 @@
 4. 新增震動引擎，強化使用體驗
 ### 目前成果展示(V1.32):
 [![](https://img.onl/L12P2h)](https://photos.app.goo.gl/5FmcTnXPaZoideAj7)
-2023/1/5
 # A RGB pwm LED cube.
 ### **測試中的digital模擬LEDpwm代碼**
 ### update : 2023/1/5
 
-[![](https://img.shields.io/badge/CubeDrive0.2.st.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive1.5.1.one.ino)
+[![](https://img.shields.io/badge/CubeDrive.ino-1.5.1.one-green)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive1.5.1.d.ino)
+[![](https://img.shields.io/badge/CubeDrive0.2.st.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive0.2.st.ino)
+
 
 ### 目前功能:
     通過二維陣列設定led的顏色，並使用函式刷新。

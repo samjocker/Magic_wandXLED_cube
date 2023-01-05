@@ -17,15 +17,17 @@
 4. 新增震動引擎，強化使用體驗
 ### 目前成果展示(V1.32):
 [![](https://img.onl/L12P2h)](https://photos.app.goo.gl/5FmcTnXPaZoideAj7)
+2023/1/5
 # A RGB pwm LED cube.
 ### **測試中的digital模擬LEDpwm代碼**
-### update : 2023/1/2
+### update : 2023/1/5
 
-[![](https://img.shields.io/badge/CubeDrive0.2.st.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive0.2.st.ino)
+[![](https://img.shields.io/badge/CubeDrive0.2.st.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive1.5.1.one.ino)
 
 ### 目前功能:
-    通過二維陣列設定led的顏色，並使用函式刷新。(測試中，目前僅能低刷新率)
-
+    通過二維陣列設定led的顏色，並使用函式刷新。
+### 已知問題:
+    因LED刷新順序問題，順位靠後的LED工作時常過低，導致亮度不平均。
 
 https://user-images.githubusercontent.com/34911327/210252287-098fcaef-6f39-4aea-9a2e-6753492e4f1d.mp4
 
@@ -36,4 +38,4 @@ https://user-images.githubusercontent.com/34911327/210252287-098fcaef-6f39-4aea-
     3.新增對8x8的支持
     4.與magic wand建立連結
 ### 版本紀錄:
-    增加cube的接地分區以減少PWM腳位需求，可直接使用mega2560自帶pwm角為控制。
+    增加控制單顆led顏色的函示。

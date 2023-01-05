@@ -48,4 +48,4 @@ https://user-images.githubusercontent.com/34911327/210252287-098fcaef-6f39-4aea-
     3.新增對8x8的支持
     4.與magic wand建立連結
 ### 版本紀錄:
-    增加控制單顆led顏色的函示。
+    增加控制單顆led顏色的函式。

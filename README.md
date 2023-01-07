@@ -32,6 +32,7 @@
 ### 已知問題:
     因LED刷新順序問題，順位靠後的LED工作時常過低，導致亮度不平均。
 
+
 https://user-images.githubusercontent.com/34911327/210252287-098fcaef-6f39-4aea-9a2e-6753492e4f1d.mp4
 
 

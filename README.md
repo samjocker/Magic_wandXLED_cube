@@ -18,7 +18,7 @@
 ### 目前成果展示(V1.32):
 [![](https://img.onl/L12P2h)](https://photos.app.goo.gl/5FmcTnXPaZoideAj7)
 
-![image](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/InCollage_20230107_070140917~2.jpg)
+![image](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/InCollage_20230107_070140917_2-modified.png)
 ### **測試中的digital模擬LEDpwm代碼**
 
 ### update : 2023/1/5

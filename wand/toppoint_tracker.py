@@ -30,8 +30,8 @@ async def show_picture(coordinate):
     y_mid = (y_max+y_min)/2
     x_gap = 0-x_mid
     y_gap = 0-y_mid
-    x_size = sl/(((x_max+x_gap)))
-    y_size = sl/(((y_max+y_gap)))
+    x_size = sl/(x_max+x_gap)
+    y_size = sl/(y_max+y_gap)
     print(x_max,x_gap,x_size)
     for c in coordinate:
         if c[0] <= sl and c[1] <= sl and c[0] >= sl*-1 and c[1] >= sl*-1:

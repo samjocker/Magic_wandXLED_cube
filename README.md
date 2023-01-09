@@ -19,13 +19,9 @@
 2. ~~實現魔仗軌跡圖像辨識，將於目前程式碼移植至esp32時再實現(因python序列阜更新率過低直接於esp32上使用原始資料效果更佳)~~
 3. 新增紅外線發射器
 4. 新增震動引擎，強化使用體驗
-<<<<<<< HEAD
 ### 目前成果展示(V1.5):
 [![](https://img.onl/L12P2h)](https://photos.app.goo.gl/Ge4SD9J4hyFiKFeUA)
 =======
-### 目前成果展示(V1.32):
-[![](https://img.onl/L12P2h)](https://photos.app.goo.gl/5FmcTnXPaZoideAj7)
->>>>>>> cbbd8736ef2e8c9f87c6462dc62b0c365c947ffe
 
 ![image](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/InCollage_20230107_070140917_2-modified.png)
 ### **測試中的digital模擬LEDpwm代碼**

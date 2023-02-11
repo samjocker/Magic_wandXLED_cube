@@ -24,17 +24,17 @@
 =======
 
 ![image](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/InCollage_20230107_070140917_2-modified.png)
-### **測試中的digital模擬LEDpwm代碼**
+### **光立方控制代碼1.7**
 
-### update : 2023/1/5
+### update : 2023/2/11
 
 [![](https://img.shields.io/badge/CubeDrive.ino-1.5.1.one-green)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive1.5.1.d.ino)
-[![](https://img.shields.io/badge/CubeDrive.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive0.2.st.ino)
+[![](https://img.shields.io/badge/CubeDrive.ino-Debug-red)](https://github.com/samjocker/Magic_wandXLED_cube/blob/main/RGBLED-Cube%208%C2%B3/cubedrive1.7.ino)
 
 
 ### 目前功能:
     通過二維陣列設定led的顏色，並使用函式刷新。
-### 已知問題:
+### 已解決:
     因LED刷新順序問題，順位靠後的LED工作時常過低，導致亮度不平均。
 
 
@@ -48,7 +48,7 @@ https://user-images.githubusercontent.com/34911327/210252287-098fcaef-6f39-4aea-
     4.與magic wand建立連結
 ### 版本紀錄:
     增加控制單顆led顏色的函示。
-
+    優化控制函式增加刷新頻率
 
 ### 待實現:
     1.通過序列埠通訊控制cube的顏色
